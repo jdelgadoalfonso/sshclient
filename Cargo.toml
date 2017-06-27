@@ -1,0 +1,9 @@
+[package]
+name = "reconfig"
+version = "0.1.0"
+authors = ["Jose Antonio Delgado Alfonso <jdelgadoalfonso@gmail.com>"]
+
+[dependencies]
+futures = "0.1.14"
+thrussh = "0.13.0"
+thrussh-keys = "0.3.1"
